@@ -1,1 +1,14 @@
+Giải thuật cài đặt giống như trên mảng cơ sở
 
+Giả sử ta có struct:
+
+struct SinhVien
+{
+   char ma[10];
+   char ten[150];
+   bool gioitinh;
+};
+
+Nhập danh sách Sinh viên, viết chương trình tìm kiếm Sinh viên theo Mã, Tên, giới tính.
+
+  
